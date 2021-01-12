@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  11 JAN 2021 21:56
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  11 JAN 2021 22:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**CV_JDHarris_August2020.tex
-(./CV_JDHarris_August2020.tex
+**CV_JDHarris_Jan2021.tex
+(./CV_JDHarris_Jan2021.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -673,8 +673,8 @@ FLT;mapping=tex-text;mapping=tex-text;+smcp;"
 \cvaftertitleskipamount=\skip71
 \cvparskip=\skip72
 
-(./CV_JDHarris_August2020.aux)
-\openout1 = `CV_JDHarris_August2020.aux'.
+(./CV_JDHarris_Jan2021.aux)
+\openout1 = `CV_JDHarris_Jan2021.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 259.
 LaTeX Font Info:    ... okay on input line 259.
@@ -829,9 +829,9 @@ LaTeX Info: Redefining \ref on input line 259.
 LaTeX Info: Redefining \pageref on input line 259.
 LaTeX Info: Redefining \nameref on input line 259.
 
-(./CV_JDHarris_August2020.out) (./CV_JDHarris_August2020.out)
+(./CV_JDHarris_Jan2021.out) (./CV_JDHarris_Jan2021.out)
 \@outlinefile=\write3
-\openout3 = `CV_JDHarris_August2020.out'.
+\openout3 = `CV_JDHarris_Jan2021.out'.
 
 File: resources/europasscv-icons/address_europass_icon.pdf Graphic file (type Q
 Tm)
@@ -862,19 +862,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 393--393
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 403.
+(Font)              <7> on input line 405.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 403.
+(Font)              <5> on input line 405.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 1558) in paragraph at lines 405--405
+[]\EU1/texgyreheros-regular.otf(1)/m/n/10 Martin, B.E.*, Harris, J.D.* et al. (
+2020). ”Cellular co-infection can modu-
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 405--405
+\EU1/texgyreheros-regular.otf(1)/m/n/10 late the efficiency of influenza A viru
+s production and shape the interferon
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 405--405
+\EU1/texgyreheros-regular.otf(1)/m/n/10 response.” PLoS pathogens 16.10: e10089
+74. *authors contributed equally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--415
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 
  []
 
@@ -936,6 +954,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--446
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+
+ []
+
+
 Underfull \hbox (badness 2865) in paragraph at lines 446--446
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 Conference talk – “Bifurcation analys
 is of the Wilson-Cowan equations with
@@ -947,97 +970,102 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--446
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 
  []
 
 [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 706--706
+Underfull \hbox (badness 10000) in paragraph at lines 707--707
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 706--706
+Underfull \hbox (badness 10000) in paragraph at lines 707--707
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 720--720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 720--720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 720--720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 720--720
 
  []
 
@@ -1051,7 +1079,7 @@ AED: lastpage setting LastPage
 [6]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 892.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 892.
- (./CV_JDHarris_August2020.aux)
+ (./CV_JDHarris_Jan2021.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 892.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 892.
 
@@ -1062,11 +1090,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 892.
  ) 
 Here is how much of TeX's memory you used:
  23199 strings out of 493706
- 431354 string characters out of 6145769
- 516217 words of memory out of 5000000
+ 431315 string characters out of 6145769
+ 516211 words of memory out of 5000000
  26399 multiletter control sequences out of 15000+600000
  4144 words of font info for 33 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 59i,11n,59p,10437b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,11n,59p,10434b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on CV_JDHarris_August2020.pdf (6 pages).
+Output written on CV_JDHarris_Jan2021.pdf (6 pages).
