@@ -1,3 +1,6 @@
+
+# updated 8 Feb 2021
+
 # CV_Jan2021
 my updated CV created in latex
 
